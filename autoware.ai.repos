@@ -5,7 +5,7 @@ repositories:
     version: master
   autoware/core_perception:
     type: git
-    url: https://github.com/Autoware-AI/core_perception.git
+    url: https://github.com/bealeg/core_perception.git
     version: master
   autoware/core_planning:
     type: git
@@ -29,7 +29,7 @@ repositories:
     version: master
   autoware/visualization:
     type: git
-    url: https://github.com/Autoware-AI/visualization.git
+    url: https://github.com/bealeg/visualization.git
     version: master
   drivers/awf_drivers:
     type: git
