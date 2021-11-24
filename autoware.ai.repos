@@ -2,7 +2,7 @@ repositories:
   autoware/common:
     type: git
     url: https://github.com/Autoware-AI/common.git
-    version: master
+    version: 1.14.0
   autoware/core_perception:
     type: git
     url: https://github.com/bealeg/core_perception.git
@@ -10,23 +10,23 @@ repositories:
   autoware/core_planning:
     type: git
     url: https://github.com/Autoware-AI/core_planning.git
-    version: master
+    version: 1.14.0
   autoware/documentation:
     type: git
     url: https://github.com/Autoware-AI/documentation.git
-    version: master
+    version: 1.14.0
   autoware/messages:
     type: git
     url: https://github.com/Autoware-AI/messages.git
-    version: master
+    version: 1.14.0
   autoware/simulation:
     type: git
     url: https://github.com/Autoware-AI/simulation.git
-    version: master
+    version: 1.14.0
   autoware/utilities:
     type: git
     url: https://github.com/Autoware-AI/utilities.git
-    version: master
+    version: 1.14.0
   autoware/visualization:
     type: git
     url: https://github.com/bealeg/visualization.git
@@ -34,7 +34,7 @@ repositories:
   drivers/awf_drivers:
     type: git
     url: https://github.com/Autoware-AI/drivers.git
-    version: master
+    version: 1.14.0
   citysim:
     type: git
     url: https://github.com/CPFL/osrf_citysim.git
